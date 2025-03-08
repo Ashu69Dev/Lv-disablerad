@@ -5,8 +5,7 @@
 
 A lightweight FiveM script that **automatically disables vehicle radios** when players enter any vehicle, eliminating the brief radio sound that normally plays by default in GTA V.
 
-![FiveM Radio Disabler Demo](https://via.placeholder.com/800x400.png?text=Demo+Placeholder)  
-*(Replace with a real screenshot if available)*
+![FiveM Radio Disabler Demo](Soon)  
 
 ## Features ✨
 - Instantly mutes the radio when entering any vehicle.
@@ -16,8 +15,9 @@ A lightweight FiveM script that **automatically disables vehicle radios** when p
 
 ## Installation 🛠️
 1. **Download** the repository as a ZIP file.
-2. Extract the folder and rename it to `vehicleradiodisable`.
+2. Extract the folder and rename it to `Lv-disablerad`.
 3. Place the folder in your FiveM server's `resources` directory.
 4. Add the following line to your `server.cfg` file:
    ```bash
-   ensure vehicleradiodisable
+   ensure Lv-disablerad
+
